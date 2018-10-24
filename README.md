@@ -1,6 +1,6 @@
 ## Ad Preview Chrome Extension
 
-This tool is a POC of a Chrome Extension that lets users see how their ad will look when its displayed on any given web page.
+This tool lets users see how their ad will look when its displayed on any given web page.
 
 ## What's in here?
 This project composed of two major parts: 
