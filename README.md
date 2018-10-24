@@ -14,5 +14,6 @@ This project composed of two major parts:
  4. Navigate to any webpage 
  5. Click on the extension's "A" icon in the toolbar to interact with it. 
  
- 
+![Preview](https://cl.ly/0fe24012ffba/Screen%252520Recording%2525202018-10-24%252520at%25252006.18%252520PM.gif)
+
 
